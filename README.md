@@ -17,12 +17,12 @@ This repository consolidates my comprehensive learning journey across multiple e
 **Total Code**: 14,264 lines across 4 repositories
 
 ### Language Distribution
-▪ **TypeScript**: ████████░░░░░░░░░░░░ 38.1% (5,440 lines)
-▪ **JavaScript**: ███████░░░░░░░░░░░░░ 32.7% (4,663 lines)
-▪ **Python**: ███░░░░░░░░░░░░░░░░░ 15.0% (2,145 lines)
-▪ **CSS**: ██░░░░░░░░░░░░░░░░░░ 8.3% (1,191 lines)
-▪ **HTML**: █░░░░░░░░░░░░░░░░░░░ 4.9% (702 lines)
-▪ **SCSS**: ░░░░░░░░░░░░░░░░░░░░ 0.9% (123 lines)
+▪ **TypeScript**: ████████░░░░░░░░░░░░ 38.1% (5,440 lines)  
+▪ **JavaScript**: ███████░░░░░░░░░░░░░ 32.7% (4,663 lines)  
+▪ **Python**: ███░░░░░░░░░░░░░░░░░ 15.0% (2,145 lines)  
+▪ **CSS**: ██░░░░░░░░░░░░░░░░░░ 8.3% (1,191 lines)  
+▪ **HTML**: █░░░░░░░░░░░░░░░░░░░ 4.9% (702 lines)  
+▪ **SCSS**: ░░░░░░░░░░░░░░░░░░░░ 0.9% (123 lines)  
 
 ### Growth Trends
 
